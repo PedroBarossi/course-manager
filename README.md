@@ -1,3 +1,10 @@
+# Course Manager
+Projeto desenvolvido ao longo do curso de Introdução ao Angular 8, por [Wesllhey Holanda](https://github.com/wesllhey), na [Digital Innovation One](https://web.dio.me).
+
+Inclui, na pasta `server` o servidor usado para testes.
+
+# **ReadMe gerado automaticamente pelo Angular**
+
 # CourseManager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
